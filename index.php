@@ -27,10 +27,12 @@
             <li><span class="hint--top hint--medium badge badge-secondary" aria-label="Scalable Vector Graphic">SVG</span></li>
             <li><span class="hint--top hint--medium badge badge-secondary" aria-label="HTML5 used to create flexibility
             around showing different pictures at different screen sizes">Picture Element</span></li>
-            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="Thank you!">Tap target</span></li>
-            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="Thank you!">Front-end Development</span></li>
-            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="Thank you!">Front-end Developer</span></li>
-            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="Thank you!">Full-stack Developer</span></li>
+            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="A tap replaces a click on 
+            mobile devices. so any element that is clickable now is a tap target and should be sized appropriately">Tap target</span></li>
+            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="Is the act of 
+            creating for the web using client side tools such as html css and javascript. does not include back end scripting">Front-end Development</span></li>
+            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="A web developer who workds with front end languages and tech">Front-end Developer</span></li>
+            <li><span class="hint--top hint--medium badge badge-secondary" aria-label="A developer who works with both front end and back end client side and server side languages">Full-stack Developer</span></li>
         </ul>
     </div>
 </main>
