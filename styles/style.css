@@ -31,6 +31,10 @@ main ul li{
 .hint--top{
     cursor: pointer;
 }
+footer{
+    display: flex;
+    justify-content: center;
+}
 
 @media only screen and (max-width: 955px) {
     main ul {
