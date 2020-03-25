@@ -6,7 +6,11 @@ body{
 }
 header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    flex-direction: row;
+}
+header h1{
+    margin: 20px;
 }
 main{
     display: flex;
@@ -36,18 +40,21 @@ footer{
     justify-content: center;
 }
 
-@media only screen and (max-width: 955px) {
+@media only screen and (max-width: 1138px) {
     main ul {
         columns: 2;
         -webkit-columns: 2;
         -moz-columns: 2;
     }
   }
-  @media only screen and (max-width: 586px) {
+  @media only screen and (max-width: 750px) {
     main ul {
         columns: 1;
         -webkit-columns: 1;
         -moz-columns: 1;
+    }
+    header{
+        flex-direction: column;
     }
   }
 
